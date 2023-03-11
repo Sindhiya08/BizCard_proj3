@@ -3,7 +3,8 @@ https://user-images.githubusercontent.com/118071774/224509347-b33fadf1-57e1-4cd0
 
 
 
-#Business Card Data Extraction using OCR
+# Business Card Data Extraction using OCR
+
 
 Import all the necessary packages required for this --> streamlit,pillow,numpy,sqlite3,easyocr
 
